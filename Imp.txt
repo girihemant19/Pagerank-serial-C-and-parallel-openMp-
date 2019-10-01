@@ -1,0 +1,14 @@
+
+
+sequential pagerank
+Parallel page rank using OpenMP
+
+Datasets can be found at ---> http://snap.stanford.edu/data/
+
+(DataType---->Nodes   Edges)
+wiki-Vote------------>7115   103689
+web-Google----------->875713    5105039//some problem with data set
+Slashdot social network------------>82144    549202
+Amazon product co-purchasing network, March 02 2003------------->262111    1234877
+Amazon 2------>410236   3356824
+web-BerkSten-------->685230    7600595
